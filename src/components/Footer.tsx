@@ -47,7 +47,7 @@ export default function Footer() {
             <ul>
               <li>
                 <MapPin size={20} className="contact-icon" />
-                <span>Ground floor, 172-175, opposite SAROLI, Magob, Surat, Gujarat 395011</span>
+                <span>F - 172-175, Ground floor, Kohinoor textile plaza - 2, opp. Avadh textile market-2, SAROLI, Magob, Surat, Gujarat 395010</span>
               </li>
               <li>
                 <Phone size={20} className="contact-icon" />
