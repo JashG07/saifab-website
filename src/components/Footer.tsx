@@ -47,20 +47,20 @@ export default function Footer() {
             <ul>
               <li>
                 <MapPin size={20} className="contact-icon" />
-                <span>123 Textile Market, Ring Road, Surat, Gujarat 395002</span>
+                <span>Ground floor, 172-175, opposite SAROLI, Magob, Surat, Gujarat 395011</span>
               </li>
               <li>
                 <Phone size={20} className="contact-icon" />
-                <span>+91 98765 43210</span>
+                <span>+91 7575085002</span>
               </li>
               <li>
                 <Mail size={20} className="contact-icon" />
-                <span>info@saifab.com</span>
+                <span>saifab70@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
-        
+
         <div className="footer-bottom">
           <p>&copy; {new Date().getFullYear()} Sai Fab. All Rights Reserved. Designed for Premium Retailers.</p>
         </div>
