@@ -29,7 +29,7 @@ export default function Contact() {
               <MapPin className="info-icon" size={32} />
               <div>
                 <h3>Our Location</h3>
-                <p>123 Textile Market, Ring Road, Surat, Gujarat 395002</p>
+                <p>Ground floor, 172-175, opposite SAROLI, Magob, Surat, Gujarat 395011</p>
               </div>
             </div>
 
@@ -37,7 +37,7 @@ export default function Contact() {
               <Phone className="info-icon" size={32} />
               <div>
                 <h3>Phone Number</h3>
-                <p>+91 98765 43210 <br /> +91 98765 01234</p>
+                <p>+91 7575085002 <br /> +91 7575096963</p>
               </div>
             </div>
 
@@ -45,7 +45,7 @@ export default function Contact() {
               <Mail className="info-icon" size={32} />
               <div>
                 <h3>Email Address</h3>
-                <p>wholesale@saifab.com <br /> info@saifab.com</p>
+                <p>saifab70@gmail.com</p>
               </div>
             </div>
 
