@@ -49,7 +49,7 @@ export default function About() {
               <img src="/assets/designer-bg.png" alt="Sai Fab Excellence" />
             </div>
             <div className="about-experience-badge glass">
-              <h3>15+</h3>
+              <h3>10+</h3>
               <p>Years of <br />Excellence</p>
             </div>
           </motion.div>
