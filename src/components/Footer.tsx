@@ -13,12 +13,35 @@ export default function Footer() {
             <p className="footer-desc">
               Premium Fabrics & Fashion for Modern Retailers. Trusted by thousands across India for quality and trends.
             </p>
+            
             <div className="social-links">
-              <a href="#" aria-label="Facebook">Fb</a>
-              <a href="#" aria-label="Instagram">Ig</a>
-              <a href="#" aria-label="Twitter">Tw</a>
-            </div>
-          </div>
+                <a 
+                  href="https://facebook.com/YOUR_FACEBOOK_USERNAME"
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label="Facebook"
+                >
+                  Fb
+                </a>
+
+                <a 
+                  href="https://instagram.com/saifab_surat"
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label="Instagram"
+                >
+                  Ig
+                </a>
+
+                <a 
+                  href="https://twitter.com/YOUR_TWITTER_USERNAME"
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label="Twitter"
+                >
+                  Tw
+                </a>
+              </div>
 
           <div className="footer-links">
             <h3>Quick Links</h3>
